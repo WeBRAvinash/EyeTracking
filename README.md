@@ -1,6 +1,6 @@
 # EyeTracking
 
-### H3 Required dependencies:
+### Required dependencies:
 
 
 opencv-python
