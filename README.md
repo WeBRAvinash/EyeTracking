@@ -2,7 +2,6 @@
 
 
 ### Required dependencies:
-
 opencv-python
 dlib
 CMake
